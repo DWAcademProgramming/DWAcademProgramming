@@ -8,7 +8,7 @@
 <h2 align='center'> Hi! I'm David ! </h2>
 <h5 align='center'>I write code to make people healthier #literally</h5>
 
-### Languages and Skills
+### Some of the tools I use to get things done
 <p>
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -25,3 +25,6 @@
 <img align="left" alt="Kubernetes" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
   <br/>
 </p>
+
+<!-- tag line -->
+&nbsp;
