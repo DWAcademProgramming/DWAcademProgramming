@@ -8,6 +8,9 @@
 <h2 align='center'> Hi! I'm David ! </h2>
 <h5 align='center'>I write code to make people healthier #literally</h5>
 
+&nbsp;
+&nbsp;
+&nbsp;
 ### Some of the tools I use to get things done
 <p>
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
