@@ -1,4 +1,4 @@
-def David_W():
+def David_W(): <br>
     techStack_Development: MERNT 👨‍💻
     teckstack_Data: Python (Numpy, Pandas, Tensorflow, Keras) 📃
     OS: Windows for development, Linux for everything else 💻
